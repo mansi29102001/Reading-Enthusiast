@@ -1,0 +1,199 @@
+*{
+    margin: 0 0;
+    padding: 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+h3{
+    color: black;
+}
+.container{
+   
+    width: 80%;
+    padding: 1%;
+    margin: 0 auto;   
+    color: blanchedalmond;
+}
+/* css for navbar */
+.image{
+    width: 5%;
+    float: left;
+}
+.img-resposive{
+    width: 100%;
+}
+.clearfix{
+    clear: both;
+    float: none;
+}
+.text-right{
+    text-align: right;
+}
+.menu ul{
+    list-style-type: none;
+    text-decoration: none;
+}
+.menu ul li{
+    display: inline;
+    padding: 1%;
+    float: center;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+a:hover{
+    color: #576574;
+}
+h2{
+    margin-left: 7%;
+    margin-top: 2%;
+    font-size: large;
+}
+.navbar{
+    background-color: #6F1E51;
+}
+
+/* css for join*/
+.join{
+    background-image: url(../images/open-book.jpeg);
+    padding: 7% 0;
+    padding-bottom: 15%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h1{
+    font-size: xx-large;
+    color: #dff9fb;
+    font-weight: bold;
+    text-align: center;
+}
+.btn{
+    padding: 1%;
+    color: #2f3542;
+    background-color: #34495e;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 27.5%;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: #2c3e50 ;
+}
+p{
+    color: #130f40;
+    font-weight: bolder;
+}
+/* css for importance */
+h2{
+    color: black;
+}
+.importance{
+    background-color: #f1f2f6;
+    padding-top: 1%;
+}
+
+/* css for genre */
+.box-1{
+    color: black;
+    float: left;
+    width: 9%;
+    margin: 2.5%;
+    text-align: center;
+}
+.genre{
+    background-color: #f1f2f6;
+}
+/* css for best-sellers */
+.box-2{
+    width: 40%;
+    margin-left: 3.8%;
+    margin-right: 3.8%;
+    float: left;
+}
+.box-3{
+    width: 20%;
+    height: 40%;
+    margin: 2%;
+    display: inline-block;
+}  
+.box-4{
+    width: 70%;
+    height: 40%;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 12%;
+} 
+.best-sellers{
+    background-color: #f1f2f6;
+}
+
+/* css for copy */
+.box-5{
+    color: black;
+    width: 6%;
+    float: left;
+    margin-left: 13%;
+}
+.copy{
+    background-color: #f1f2f6;
+}
+
+/* css for search */
+.search{
+    background-image: url(../images/search.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 8% 0;
+}
+.center{
+    text-align: center;
+}
+.search input[type="search"]{
+    width: 50%;
+    padding: 1%;
+    font-size: 1rem;
+    border: none;
+}.btn2{
+    padding: 1%;
+    font-size: 1rem;
+    border: none;
+    cursor: pointer;
+    background-color: #c7ecee;
+    font-weight: bold;
+}
+
+/* css for contact */
+.contact{
+    background-color: #f1f2f6;
+}
+.social ul{
+    list-style: none;
+    text-align: center;
+    
+    
+}
+.social ul li{
+    display: inline;
+    padding: 2%;
+}
+
+/* css for reviews  */
+.reviews{
+    background-color: #f1f2f6;
+}
+.box{
+    float: left;
+    width: 20%;
+    padding: 1%;
+    margin: 1%;
+    
+    
+}
+.circle{
+    border-radius: 50%;
+}
+
